@@ -7,9 +7,9 @@
 This is a full-stack express application that allows users to create and delete notes.
 
 ## Preview of The Program
-[Note-Taker Video](https://youtu.be/7eBpK0rVN3g)
-![Preview of the Website](./develop/public/assets/images/preview.PNG)
-![Preview of the Website](./develop/public/assets/images/previews.PNG)
+[Note-Taker Website](https://note-taker-nb5v.onrender.com)
+![Preview of the Website](./public/assets/images/p.PNG)
+![Preview of the Website](./public/assets/images/s.PNG)
 
 ## Table of Contents
 - [Installation](#installation)
